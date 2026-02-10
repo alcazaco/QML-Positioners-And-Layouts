@@ -2,6 +2,20 @@
 
 This is the repo for the Positioners and Layouts course on Qt Academy.
 
+> Get the full learning experience by enrolling in the course on [Qt Academy](https://www.qt.io/academy/course-catalog?q=positioners#positioners-and-layouts)
+
+> You can also find the course playlist on the [Qt YouTube channel](https://www.youtube.com/playlist?list=PLizsthdRd0YyqsrOYkiC1fGmkaNnTgKTI) 
+
+## 🎯 What You'll Learn 
+
+- **Master QML positioning techniques** from anchors to advanced responsive layouts
+- **Build an adaptive image gallery** that works across desktop, tablet, and mobile devices
+- **Choose the right layout method** for your application's design and complexity
+
+⭐ **Skill Level:** Beginner
+
+⏱️ **Time to Complete:** **95** minutes 
+
 ## Getting Started
 
 - In this repo, you will find a selection of projects you will create if you follow along with the course on Qt Academy.
